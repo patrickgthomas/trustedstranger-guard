@@ -1,14 +1,14 @@
 :root {
-  --navy: #00687a;
-  --deep-navy: #03424d;
-  --mid-navy: #237d8d;
+  --navy: #00167a;
+  --deep-navy: #020d42;
+  --mid-navy: #2f4299;
   --gold: #d6a83f;
   --gold-light: #f1c96a;
   --cream: #f8f5ee;
   --cream-dark: #efe6d6;
   --white: #ffffff;
   --text: #1f2d3a;
-  --muted: #629ea8;
+  --muted: #5c6696;
   --border: #eadfca;
   --shadow: 0 18px 45px rgba(89, 4, 56, 0.12);
   --dark-shadow: 0 24px 60px rgba(89, 4, 56, 0.25);
