@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "ios": {
+    "latestVersion": "1.0.2",
+    "latestBuild": 3
+  },
+  "android": {
+    "latestVersion": "1.0.2",
+    "latestBuild": 1
+  }
+}
